@@ -1,3 +1,5 @@
-# BiographyGenerator
+# Chat to Story
+
 Course: Advanced Machine Learning <br/>
-Official repo for the Biography Generator using SLM's
+
+Generates well written stories from a chat conversation.
